@@ -1,0 +1,10 @@
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\bin\Debug\Mycalculator.exe.config
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\bin\Debug\Mycalculator.exe
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\bin\Debug\Mycalculator.pdb
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.Form1.resources
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.Properties.Resources.resources
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.csproj.GenerateResource.cache
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.csproj.CoreCompileInputs.cache
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.exe
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.pdb
+D:\Projects\visual studio projects\Mycalculator\Mycalculator\obj\Debug\Mycalculator.csprojAssemblyReference.cache
